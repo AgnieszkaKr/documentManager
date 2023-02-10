@@ -1,4 +1,4 @@
-Open source project.
-Used technologies: 
-    Frontend: React
-    Backend: Node/Express
+# Open source project.
+## Used technologies: 
+    - Frontend: React
+    - Backend: Node/Express
