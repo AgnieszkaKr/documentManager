@@ -3,6 +3,6 @@
     - Frontend: React
     - Backend: Node/Express
 ## Contributors
-- Agnieszka Krokoz
-- Haala Al-Hadithy
-- Olivia Manalastas
+    - Agnieszka Krokoz
+    - Haala Al-Hadithy
+    - Olivia Manalastas
